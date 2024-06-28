@@ -93,4 +93,5 @@ ___MENU___
 Enter option: 5 
 ```
 ## Демонстрация работы программ
+![image](https://github.com/EltexHomework/DynamicMemory/assets/70006380/95777e3a-3dbd-46c9-af4f-db812d4c284f)
 
